@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="467f1ef7-2c39-4b14-b26f-2fcb3165a306" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\..\..\ProgramFiles\JavaEnvironment\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\ProgramFiles\JavaEnvironment\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kxEZl8E3XrZrDCRssrSfm0S3Al" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/zhao/pojo" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35402298" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="467f1ef7-2c39-4b14-b26f-2fcb3165a306" name="Default Changelist" comment="" />
+      <created>1606633906506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606633906506</updated>
+      <workItem from="1606633907540" duration="1450000" />
+      <workItem from="1606635420340" duration="8888000" />
+      <workItem from="1606657696082" duration="44000" />
+      <workItem from="1606916605616" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2345" y="277" key="#Project_Structure" timestamp="1606633928563">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2345" y="277" key="#Project_Structure/0.0.3440.1400@0.0.3440.1400" timestamp="1606633928563" />
+    <state x="2457" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606635679632">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2457" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1606635679632" />
+    <state x="2670" y="419" key="#com.intellij.ide.util.MemberChooser" timestamp="1606637321843">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2670" y="419" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1606637321843" />
+    <state x="2483" y="380" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1606644055078">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2483" y="380" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1606644055078" />
+    <state x="2594" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606635998750">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2594" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1606635998750" />
+    <state x="2624" y="387" key="FileChooserDialogImpl" timestamp="1606635925439">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2624" y="387" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1606635925439" />
+    <state x="2345" y="277" key="SettingsEditor" timestamp="1606634740582">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2345" y="277" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1606634740582" />
+    <state x="2645" y="512" width="441" height="371" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1606635975138">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2645" y="512" width="441" height="371" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1606635975138" />
+    <state x="2545" y="382" key="spring file set editor" timestamp="1606635606252">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2545" y="382" key="spring file set editor/0.0.3440.1400@0.0.3440.1400" timestamp="1606635606252" />
+  </component>
+</project>
